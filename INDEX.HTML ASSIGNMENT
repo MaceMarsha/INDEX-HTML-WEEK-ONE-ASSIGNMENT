@@ -1,0 +1,46 @@
+<!DOCUTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name+="description" content="My Portfolio, creative developer, projects and contact information.">
+    <title>Mercy Ndung'u Portfolio</title>
+</head>
+<body>
+    <header>
+        <nav aria-label="Main Navigation">
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h1>About Me</h1>
+            <p>Welcome to my portfolio! I am a creative developer with a passion for building innovative web applications.</p>
+        </section>
+        <section id="projects">
+            <h2>My Projects</h2>
+            <p>Here are some of the projects I've worked on:</p>
+            <ul>
+                <li>Project 1: A web application for managing tasks.</li>
+                <li>Project 2: An e-commerce site built with React.</li>
+                <li>Project 3: A personal blog using HTML and CSS.</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>If you'd like to get in touch, please email me at <a href="ndungumercy550@gmail.com">
+            </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Mercy Ndung'u. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+                <
+
+
